@@ -1,0 +1,15 @@
+Ease of Use:
+- Matplotlib: Slightly complex and requires more coding for customization.  
+- Seaborn: Easier to use with attractive default themes.
+
+Customization:
+- Matplotlib: Offers high customization options, such as colors, labels, titles, ticks, etc.  
+- Seaborn: Limited customization options but provides visually appealing out-of-the-box visualizations.
+
+Interactivity:
+- Matplotlib: For interactive graphs, additional tools like `mpld3` need to be used.  
+- Seaborn: Lacks built-in support for interactive visualizations but is excellent for simple static plots.
+
+Handling Large Datasets:
+- Matplotlib: Handles large datasets efficiently.  
+- Seaborn: Performance can be slower with large datasets, especially for complex plots.
